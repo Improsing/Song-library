@@ -1,5 +1,5 @@
 # Онлайн библиотека песен
-**Тестовое задание для Effective Mobile**  
+
 ## Стек технологий
 - **Backend**: Golang
 - **Framework**: Gin
