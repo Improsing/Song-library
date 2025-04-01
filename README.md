@@ -3,7 +3,7 @@
 ## Стек технологий
 - **Backend**: Golang
 - **Framework**: Gin
-- **База данных**: PostgreSQL, GORM, ClickHouse
+- **База данных**: PostgreSQL
 - **Документация**: Swagger
 - **Контейнеризация**: Docker Compose  
 
